@@ -1,0 +1,149 @@
+[{
+    "points": [31.802893, 112.817956, 41.450041,-102.465787],
+    "total": 62248,
+    "from": "China",
+    "curvature": 0.5,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
+    "points": [23.313107, 76.305310, 41.450041,-102.465787],
+    "total": 54495,
+    "from": "India",
+    "curvature": 0.20,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
+    "points": [27.916764, -109.417754, 41.450041,-102.465787],
+    "total": 156052,
+    "from": "Mexico",
+    "curvature": 0.85,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom",
+        "offsetX": -40
+    }
+}, {
+    "points": [18.960556, -70.047033, 41.450041,-102.465787],
+    "total": 49911,
+    "from": "Dominican Republic",
+    "curvature": 0.6,
+    "label": {
+        "position": "20%",
+        "anchor": "bottom"
+    }
+}, {
+    "points": [13.249445, 122.323071, 41.450041,-102.465787],
+    "total": 45920,
+    "from": "Philippines",
+    "curvature": 0.40,
+    "label": {
+        "position": "0%",
+        "anchor": "topLeft",
+        "offsetX": 5,
+        "offsetY": 10
+    }
+}, {
+    "points": [20.406420, -75.684184, 41.450041,-102.465787],
+    "total": 41641,
+    "from": "Cuba",
+    "curvature": 0.3,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom",
+        "offsetX": -25,
+        "offsetY": -10
+    }
+}, {
+    "points": [12.859410, 108.772578, 41.450041,-102.465787],
+    "total": 39712,
+    "from": "Vietnam",
+    "curvature": 0.30,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom",
+        "offsetX": -50
+    }
+}, {
+    "points": [13.807261, -89.556299, 41.450041,-102.465787],
+    "total": 27656,
+    "from": "El Salvador",
+    "curvature": -0.35,
+    "label": {
+        "position": "0%",
+        "anchor": "leftBottom",
+        "offsetX": -85
+    }
+}, {
+    "points": [17.811456,-77.192366, 41.450041,-102.465787],
+    "total": 21689,
+    "from": "Jamaica",
+    "curvature": 0.05,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
+    "points": [4.146765, -72.612004, 41.450041,-102.465787],
+    "total": 19841,
+    "from": "Colombia",
+    "curvature": -0.6,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom",
+         "offsetX": -25
+    }
+}, {
+    "points": [-15.303028, -48.092694, 41.450041,-102.465787],
+    "total": 19825,
+    "from": "Brazil",
+    "curvature": -0.7,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
+    "points": [36.660585, 127.853115, 41.450041,-102.465787],
+    "total": 18479,
+    "from": "South Korea",
+    "curvature": 0.6,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
+    "points": [19.011344, -72.314313, 41.450041,-102.465787],
+    "total": 17253,
+    "from": "Haiti",
+    "curvature": 0.45,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom",
+        "offsetX": 10,
+        "offsetY": -10
+        
+    }
+}, {
+    "points": [14.798486, -86.569402, 41.450041,-102.465787],
+    "total": 15901,
+    "from": "Honduras",
+    "curvature": -0.15,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom", 
+        "offsetX": -25,
+        "offsetY": 0
+    }
+}, {
+    "points": [8.310544, 9.430314, 41.450041,-102.465787],
+    "total": 15888,
+    "from": "Nigeria",
+    "curvature": -0.45,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}]
